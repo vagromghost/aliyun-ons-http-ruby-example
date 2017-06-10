@@ -1,0 +1,7 @@
+onsUrl: "http://hangzhou-rest-internet.ons.aliyun.com"
+producerID: "PID_jjrb_data"
+consumerID: "CID_TEST_NODEJS"
+accessKey: "LTAI3Vf8bjUtMSAw"
+secretKey: "TblfzGDNnvMCorQh8KNOPQjBCBzl3y"
+topic: "jjrb_data_test4"
+path: "/"
